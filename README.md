@@ -49,14 +49,12 @@ on. The Automated Admissions Data Entry Clerk (AADEC) is a tool to automate the 
 
 <a name="abstract"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.00.44%20PM.png" width=100%>
 
-<a name="dataprep"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.01.19%20PM.png" width=100%><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.02.08%20PM.png" width=100%>
+<a name="dataprep"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.01.19%20PM.png" width=50% align="top"><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.02.08%20PM.png" width=50%>
 
 
-<a name="workflow"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.02.44%20PM.png" width=100%><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.03.20%20PM.png" width=100%>
+<a name="workflow"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.02.44%20PM.png" width=50%><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.03.20%20PM.png" width=50%>
 
-<a name="classification"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.03.59%20PM.png" width=100%>
-
-<a name="results"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.04.26%20PM.png" width=100%>
+<a name="classification"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.03.59%20PM.png" width=50% align="top"><a name="results"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.04.26%20PM.png" width=50%>
 
 
 
