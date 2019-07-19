@@ -47,7 +47,7 @@ on. The Automated Admissions Data Entry Clerk (AADEC) is a tool to automate the 
 
 - ENJOY!
 
-<a name="abstract"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.00.44%20PM.png" width=50% hspace='20'><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Screen%20Shot%202019-07-18%20at%201.10.32%20PM.png" width=45% height="125" align="top">
+<a name="abstract"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.00.44%20PM.png" width=50%><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Screen%20Shot%202019-07-18%20at%201.10.32%20PM.png" width=45% height="125" align="top" hspace='20'>
 
 
 <a name="dataprep"/><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.01.19%20PM.png" width=50% align="top"><img src="https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/Poster_Images/Screen%20Shot%202019-07-18%20at%2012.02.08%20PM.png" width=50%>
