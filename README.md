@@ -17,7 +17,7 @@ on. The Automated Admissions Data Entry Clerk (AADEC) is a tool to automate the 
   6) [Classification](https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/README.md#classification)
   7) [Results](https://github.com/ichiu9/Automated-Admissions-Data-Entry-Clerk/blob/master/README.md#results)
  
-<a name="dnld:"/>
+<a name="dnld"/>
 
 ### A few download requirements:
 - If you are running on Windows:
